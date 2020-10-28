@@ -2,7 +2,7 @@
 
 //var socket = io.connect('http://localhost:4000/');
 //var socket = io.connect('https://marie7900.github.io/chat/');
-var socket = io();
+var socket = io('https://floating-retreat-38383.herokuapp.com/);
 
 
 var message = document.querySelector('#message');
